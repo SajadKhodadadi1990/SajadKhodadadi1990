@@ -30,15 +30,15 @@
 
 ## 🔬 Research Interests
 
-•	Hybrid methods ‎
-•	code development ‎
-•	Numerical simulation of two-phase flow (Eulerian – Eulerian and Eulerian - Lagrangian)‎
-•	Turbulence flow
-•	experimental investigation of single and multiphase flow ‎
-•	Heat transfer enhancement (natural and forced convection)‎
-•	Renewable energy (solar systems)‎
-•	Microfluidic MEMS devices (transport phenomena in microscale processes, microscale ‎heat transfer)‎
-•	Aerodynamics ‎
+-	Hybrid methods ‎
+-	code development ‎
+-	Numerical simulation of two-phase flow (Eulerian – Eulerian and Eulerian - Lagrangian)‎
+-	Turbulence flow
+-	experimental investigation of single and multiphase flow ‎
+-	Heat transfer enhancement (natural and forced convection)‎
+-	Renewable energy (solar systems)‎
+-	Microfluidic MEMS devices (transport phenomena in microscale processes, microscale ‎heat transfer)‎
+-	Aerodynamics ‎
 ---
 
 ## 📚 Publications
