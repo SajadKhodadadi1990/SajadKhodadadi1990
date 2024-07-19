@@ -118,13 +118,3 @@
 - **Sep 2021 - Sep 2023**: Elia Kazemi, Master Student, Self-Aeration Flotation Cell, Tarbiat Modares University
 - **Sep 2022 - present**: Ali Dalvand, Master Student, Cleaning The Surface with Bubble Collapse
 
----
-
-## 🔬 Research Experience
-
-- **Sep 2017 - Sep 2023**: Development of 8 solvers in OpenFOAM open-source codes
-- **Sep 2017 - Feb 2017**: Development of the Peric code and adding low Reynolds models to it, Turbulence Course
-- **Sep 2017 - Feb 2017**: Investigating the turbulence flow inside the pipe with LES method, Turbulence Course
-- **Feb 2018 - Jun 2018**: Unsteady analysis of single drop motion and evaporation in a hot environment, Computational Multiphase Fluid Dynamics (CMFD) Course
-- **Feb 2018 - Jun 2018**: Analyzing the cavity problem; Computational Fluid Dynamics (CFD) Course
-- **Sep 2018 - Feb 2018**: Investigating the effect of geometry and thickness on temperature distribution, Convection Heat Transfer Course
