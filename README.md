@@ -1,12 +1,9 @@
-Certainly! Here's a more professional and aesthetically pleasing version of your GitHub README with added styling for clarity and visual appeal:
-
-```markdown
 # Sajad Khodadadi
 
 **Location:** Tehran, Iran  
 **Phone:** +989120280065  
 **Email:** sajad.khodadadi@modares.ac.ir  
-**GitHub:** [SajadKhodadadi1990]  
+**GitHub:** [YourGitHubUsername]  
 
 ---
 
@@ -135,4 +132,3 @@ Certainly! Here's a more professional and aesthetically pleasing version of your
 - **Sep 2018 - Feb 2018**: Investigating the effect of geometry and thickness on temperature distribution, Convection Heat Transfer Course
 
 ---
-
