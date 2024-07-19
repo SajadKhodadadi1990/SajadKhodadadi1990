@@ -9,19 +9,19 @@
 ## 🎓 Education
 
 ### Doctor of Science in Mechanical Engineering (Energy Conversion)
-**Tarbiat Modares University, Tehran, Iran**  *Sep 2017 – Sep 2023*  
+**Tarbiat Modares University, Tehran, Iran**  (*Sep 2017 – Sep 2023*)  
 - **GPA:** 18.56/20 (3.82/4)  
 - **Thesis:** Development of Multiphase Approach with Capability of Capturing Interphase to Investigate the Fouling Phenomena  
 - **Supervisor:** Dr. Reza Maddahian
 
 ### Master of Science in Mechanical Engineering (Energy Conversion)
-**Babol Noshirvani University of Technology, Mazandaran, Iran**  *Sep 2012 – Sep 2014*  
+**Babol Noshirvani University of Technology, Mazandaran, Iran**  (*Sep 2012 – Sep 2014*) 
 - **GPA:** 17.77/20 (4/4)  
 - **Thesis:** Numerical Simulation of Bubble Impact and Movement alongside to the Inclined Plate with VOF Method  
 - **Supervisors:** Prof. Mofid Gorji, Prof. Davood Domiri Ganji
 
 ### Bachelor of Science in Mechanical Engineering (Heat and Fluids)
-**University of Jundishapur, Khoozestan, Iran**  *Sep 2008 - Sep 2012*  
+**University of Jundishapur, Khoozestan, Iran**  (*Sep 2008 - Sep 2012*)  
 - **GPA:** 16.45/20 (3.54/4)  
 - **Thesis:** Experimental Study on the Water Inlet and Outlet Position of a Solar Collector Reservoir for Maximum Efficiency  
 - **Supervisor:** Dr. Mohammad Reza Assari
