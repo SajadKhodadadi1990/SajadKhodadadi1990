@@ -3,29 +3,26 @@
 **Location:** Tehran, Iran  
 **Phone:** +989120280065  
 **Email:** sajad.khodadadi@modares.ac.ir  
-**GitHub:** [SajadKhodadadi1990]  
+**GitHub:** [@SajadKhodadadi1990]  
 
 ---
 
 ## 🎓 Education
 
 ### Doctor of Science in Mechanical Engineering (Energy Conversion)
-**Tarbiat Modares University, Tehran, Iran**  
-*Sep 2017 – Sep 2023*  
+**Tarbiat Modares University, Tehran, Iran**  *Sep 2017 – Sep 2023*  
 - **GPA:** 18.56/20 (3.82/4)  
 - **Thesis:** Development of Multiphase Approach with Capability of Capturing Interphase to Investigate the Fouling Phenomena  
 - **Supervisor:** Dr. Reza Maddahian
 
 ### Master of Science in Mechanical Engineering (Energy Conversion)
-**Babol Noshirvani University of Technology, Mazandaran, Iran**  
-*Sep 2012 – Sep 2014*  
+**Babol Noshirvani University of Technology, Mazandaran, Iran**  *Sep 2012 – Sep 2014*  
 - **GPA:** 17.77/20 (4/4)  
 - **Thesis:** Numerical Simulation of Bubble Impact and Movement alongside to the Inclined Plate with VOF Method  
 - **Supervisors:** Prof. Mofid Gorji, Prof. Davood Domiri Ganji
 
 ### Bachelor of Science in Mechanical Engineering (Heat and Fluids)
-**University of Jundishapur, Khoozestan, Iran**  
-*Sep 2008 - Sep 2012*  
+**University of Jundishapur, Khoozestan, Iran**  *Sep 2008 - Sep 2012*  
 - **GPA:** 16.45/20 (3.54/4)  
 - **Thesis:** Experimental Study on the Water Inlet and Outlet Position of a Solar Collector Reservoir for Maximum Efficiency  
 - **Supervisor:** Dr. Mohammad Reza Assari
@@ -82,10 +79,7 @@
 
 ## 💻 Projects
 
-### Development of Solvers in OpenFOAM
-- Developed 8 solvers for various fluid dynamics simulations using OpenFOAM.
-
-### Numerical Simulations
+### Numerical Simulations (R&D)
 - **Self-Aeration Process:** Improving mineral flotation processes in Wemco flotation cells.
 - **Axial Fan Simulations:** Conducted simulations for Mapna (Parand powerhouse axial fan).
 - **Suction Basin and Vortex Breaker:** Simulations for Satyar Water and Energy Company.
@@ -130,5 +124,3 @@
 - **Feb 2018 - Jun 2018**: Unsteady analysis of single drop motion and evaporation in a hot environment, Computational Multiphase Fluid Dynamics (CMFD) Course
 - **Feb 2018 - Jun 2018**: Analyzing the cavity problem; Computational Fluid Dynamics (CFD) Course
 - **Sep 2018 - Feb 2018**: Investigating the effect of geometry and thickness on temperature distribution, Convection Heat Transfer Course
-
----
