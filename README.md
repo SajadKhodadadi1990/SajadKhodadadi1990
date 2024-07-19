@@ -99,7 +99,7 @@
 - **Dynamics, Physics I** (Elmi Karbordi, Abdanan, Sep. 2014- Feb. 2016)
 - **Fluid Mechanics I, Dynamics** (Azad University, Abdanan, Sep. 2015- Feb. 2016)
 - **C++** (Tehran University, May 2021- present)
-
+- **Fluid Mechanics I** (Ilam University, Ilam, Feb. 2024- July. 2024)
 ---
 
 ## 🧑‍🎓 Mentorship Experience
