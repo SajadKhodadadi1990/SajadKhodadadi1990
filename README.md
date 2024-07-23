@@ -3,7 +3,22 @@
 **Location:** Tehran, Iran  
 **Phone:** +989120280065  
 **Email:** sajad.khodadadi@modares.ac.ir  
+**ORCID:**
 
+    <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0002-0320-4792"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0002-0320-4792
+    </a>
+    
 ---
 
 ## 🎓 Education
@@ -117,18 +132,5 @@
 - **Sep 2021 - Sep 2023**: Mojtaba Mostafavi, Master Student, Bubble – Particle Interaction in Flotation Cell
 - **Sep 2021 - Sep 2023**: Elia Kazemi, Master Student, Self-Aeration Flotation Cell, Tarbiat Modares University
 - **Sep 2022 - present**: Ali Dalvand, Master Student, Cleaning The Surface with Bubble Collapse
----
-## 🧑‍🎓 My ORCID
-    <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0000-0002-0320-4792"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0000-0002-0320-4792
-    </a>
+
+
