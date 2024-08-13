@@ -43,56 +43,48 @@
 ---
 
 ## 🔬 Research Interests
-
--	Hybrid methods ‎
--	code development ‎
--	Numerical simulation of two-phase flow (Eulerian – Eulerian and Eulerian - Lagrangian)‎
+-	Numerical and experimental investigation of two-phase flow (Eulerian – Eulerian and Eulerian - Lagrangian)‎
 -	Turbulence flow
--	experimental investigation of single and multiphase flow ‎
--	Heat transfer enhancement (natural and forced convection)‎
--	Renewable energy (solar systems)‎
--	Microfluidic MEMS devices (transport phenomena in microscale processes, microscale ‎heat transfer)‎
--	Aerodynamics ‎
+-	Microfluidic MEMS devices
+-	Heat transfer
 ---
 
 ## 📚 Publications
+1. **Impact of Fiber Sizes on Multi-Fiber Filter Performance Using Coupled Eulerian-Lagrangian and Immersed Boundary.**  
+   *Advanced Powder Technology*, July 2024.  
+   [DOI: 10.1016/j.apt.2024.104564](https://doi.org/10.1016/j.apt.2024.104564)
 
-1. **Enhancing the Bubble Collapse Energy Using the Electrohydrodynamic Force.**  
+2. **Enhancing the Bubble Collapse Energy Using the Electrohydrodynamic Force.**  
    *Journal of Physics of Fluids*, May 2023.  
    [DOI: 10.1063/5.0146491](https://doi.org/10.1063/5.0146491)
 
-2. **Numerical Simulation of the Motion and Interaction of Bubble Pair Rising in a Quiescent Liquid.**  
+3. **Numerical Simulation of the Motion and Interaction of Bubble Pair Rising in a Quiescent Liquid.**  
    *Journal of Applied Ocean Research*, October 2023.  
    [DOI: 10.1016/j.apor.2023.103769](https://doi.org/10.1016/j.apor.2023.103769)
 
-3. **Eulerian-Lagrangian Investigation of De-Oiling Hydrocyclones: The Effects of Droplet Interaction and Size Distribution.**  
+4. **Eulerian-Lagrangian Investigation of De-Oiling Hydrocyclones: The Effects of Droplet Interaction and Size Distribution.**  
    *Journal of Chemical Engineering Science*, May 2023.  
    [DOI: 10.1016/j.ces.2023.118855](https://doi.org/10.1016/j.ces.2023.118855)
 
-4. **Heat Transfer Enhancement via Bubble Dynamics Along an Inclined Wall.**  
+5. **Heat Transfer Enhancement via Bubble Dynamics Along an Inclined Wall.**  
    *Journal of International Communications in Heat and Mass Transfer*, May 2023.  
    [DOI: 10.1016/j.icheatmasstransfer.2023.106829](https://doi.org/10.1016/j.icheatmasstransfer.2023.106829)
 
-5. **Numerical Simulation of Bubble Motion Along the Inclined Wall: A Comprehensive Map of Outcomes.**  
+6. **Numerical Simulation of Bubble Motion Along the Inclined Wall: A Comprehensive Map of Outcomes.**  
    *Journal of Ocean Engineering*, May 19, 2022.  
    [DOI: 10.1016/j.oceaneng.2022.111478](https://doi.org/10.1016/j.oceaneng.2022.111478)
-
-6. **Numerical Simulation of Bubble Impact and Movement Alongside to the Inclined Plate with VOF Method (in Persian).**  
-   *Modares Mechanical Engineering*, 2016.  
-   [Link](http://mme.modares.ac.ir/article-15-1209-en.html)
 
 7. **Experimental Study on the Water Inlet and Outlet Position of a Solar Collector Reservoir for Maximum Efficiency.**  
    *Journal of Mechanical Science and Technology*, May 2015.  
    [DOI: 10.1007/s12206-015-0146-6](https://doi.org/10.1007/s12206-015-0146-6)
 
-8. **Impact of Fiber Sizes on Multi-Fiber Filter Performance Using Coupled Eulerian-Lagrangian and Immersed Boundary.**  
-   *Advanced Powder Technology*, July 2024.  
-   [DOI: 10.1016/j.apt.2024.104564](https://doi.org/10.1016/j.apt.2024.104564)
-
-9. **Numerical Study of Bubble Growth and Collapse Dynamics Near the Rigid Wall (in Persian).**  
+8. **Numerical Study of Bubble Growth and Collapse Dynamics Near the Rigid Wall (in Persian).**  
    *Amirkabir Mechanical Engineering*, July 2024.  
    [DOI: 10.22060/mej.2024.23052.7715](https://doi.org/10.22060/mej.2024.23052.7715)
-
+   
+9. **Numerical Simulation of Bubble Impact and Movement Alongside to the Inclined Plate with VOF Method (in Persian).**  
+   *Modares Mechanical Engineering*, 2016.  
+   [Link](http://mme.modares.ac.ir/article-15-1209-en.html)
 ---
 
 ## 💻 Projects
@@ -128,8 +120,7 @@
 - **Sep 2019 - Feb 2021**: Mohammad Hassan Taleghani, Master Student, Enhancing The Bubble Collapse Energy Using the Electrohydrodynamic Force
 - **Sep 2020 - Feb 2022**: Mohammad Reza Najafi, Master Student, Bubble Collapse Near a Wall
 - **Sep 2020 - Feb 2022**: Aria Rahmani, Master Student, Effect of Wall Shape on Increasing Heat Transfer of Slug in Microtubes
-- **Sep 2021 - Sep 2023**: Mojtaba Mostafavi, Master Student, Bubble – Particle Interaction in Flotation Cell
-- **Sep 2021 - Sep 2023**: Elia Kazemi, Master Student, Self-Aeration Flotation Cell, Tarbiat Modares University
+- **Sep 2021 - Sep 2023**: Mojtaba Mostafavi, Master Student, Bubble–Particle Interaction in Flotation Cell
 - **Sep 2022 - present**: Ali Dalvand, Master Student, Cleaning The Surface with Bubble Collapse
 
 
